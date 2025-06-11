@@ -1,18 +1,27 @@
-# Udemy Java · JasminaDev
+# Lesson 04 – Employee Salary Increase 💼
 
-📘 **About this course**  
-This repository contains my progress through the *Java Programming* course by Zaur Tregulov on Udemy.  
-Step-by-step, I’m covering over 50 key Java topics and preparing for the Oracle Java Programmer I certification.
+This project demonstrates working with Java classes, constructors, and methods  
+by creating an `Employee` class and increasing salary using a method.
 
-🧩 **Topics covered**  
-- Java syntax & logic  
-- Classes, objects, constructors, methods  
-- Encapsulation, inheritance, polymorphism  
-- Exceptions, data structures, lambda expressions  
-- Command line tools & exam preparation
+### 📚 Topics Covered
+- Class and object instantiation
+- Method usage
+- Constructor parameters
+- Console output
 
-🌱 **My journey**  
-Learning Java from scratch — with a passion for clean, readable code and a soft spot for 🌿 nature-themed UI ideas.
+### 🖥 Example Output
 
-🛠️ **Tools**  
-Eclipse · Notion · GitHub 
+Имя Ilja
+Старая зарплата 1000.0
+Новая зарплата 2000.0
+
+Имя Zasmina
+Старая зарплата 1400.0
+Новая зарплата 2800.0
+
+markdown
+Копировать
+
+### 📂 Files
+- `Employee.java` — Employee class with fields and methods  
+- `EmployeeTest.java` — Main method to test salary increase
